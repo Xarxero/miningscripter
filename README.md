@@ -26,7 +26,7 @@ This GUI will let the user enter all the parameters as simple as possible. It wi
 
 
 ### Windows
-Download the files and located them in any directory. The miner is contained within the scripter.
+Download the files and locate them in any directory. The miner is contained within the scripter.
 
 
 ### Linux
