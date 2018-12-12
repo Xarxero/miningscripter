@@ -51,10 +51,4 @@ For more information regarding ANON, please refer to the [disclosure](https://ww
 Anyone and everyone is welcome to contribute. Please take a moment to
 review the [guidelines for contributing](CONTRIBUTING.md).
 
-* [Bug reports](CONTRIBUTING.md#bugs)
-* [Feature requests](CONTRIBUTING.md#features)
-* [Pull requests](CONTRIBUTING.md#pull-requests)
-
-Please note, issues submitted on platforms such as Reddit, Discord or Telegram will not be considered issues unless they are officially posted on the [ANON issues](https://github.com/anonymousbitcoin/anon/issues) page.
-
-If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+Please note, issues submitted on platforms such as Reddit, Discord or Telegram will not be considered issues unless they are officially posted on the [Miningscripter issues](https://github.com/Xarxero/miningscripter/issues) page.
