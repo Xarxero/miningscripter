@@ -27,6 +27,7 @@ This GUI will let the user enter all the parameters as simple as possible. It wi
 
 ### Windows
 Download the files and locate them in any directory. The miner is contained within the scripter.
+Run ```anon_scripter_alpha_1.3.exe```
 
 ### Linux
 Linux is currently not supported!
