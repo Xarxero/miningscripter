@@ -31,9 +31,7 @@ Download the files and locate them in any directory. The miner is contained with
 Run the scripter ```anon_scripter_alpha_1.3.exe```
 
 **WARNING** Depending on your installed Anti-Virus software, this program might be detected as a 'Trojan'!
-
 This problem occurs due the injection of the ```.dll files``` of the miner and general functionality of the scripter.
-
 If you still run into erros, please contact the [Technical support](https://t.me/anontechnicalsupport).
 
 ### Linux
