@@ -12,7 +12,7 @@ Default server is the official ANON-Miningpool with the difficulty port of "0.1"
 	- [Windows](#windows)
 	- [Linux](#linux)
 	- [Mac](#mac)
-- [Usage](#usage)
+- [Development](#development)
 - [Contact](#contact)
 - [Contribute](#Contributing-to-this-project)
 
@@ -28,13 +28,14 @@ This GUI will let the user enter all the parameters as simple as possible. It wi
 ### Windows
 Download the files and locate them in any directory. The miner is contained within the scripter.
 
-
 ### Linux
 Linux is currently not supported!
 
-
 ### Mac
 Mac is currently not supported!
+
+
+## Development
 
 
 ## Contact
