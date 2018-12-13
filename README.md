@@ -16,13 +16,14 @@ Default server is the official ANON-Miningpool with the difficulty port of "0.1"
 - [Contact](#contact)
 - [Contribute](#Contributing-to-this-project)
 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 **Miningscripter is unfinished and highly experimental.** Use at your own risk.
 <!-- ### Any optional sections -->
 
 
 ## Build
-This GUI will let the user enter all the parameters as simple as possible. It will create the script in the correct folder near to an ```diff + $ANON ``` compatible miner and than automatically execute the miner with the correctly installed script ✔️
+This GUI will let the user enter all the parameters as simple as possible. It will create the script in the correct folder near to an $ANON compatible miner and than automatically execute the miner with the correctly installed script ✔️
 
 
 ### Windows
