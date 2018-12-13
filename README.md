@@ -22,7 +22,7 @@ Default server is the official ANON-Miningpool with the difficulty port of "0.1"
 
 
 ## Build
-This GUI will let the user enter all the parameters as simple as possible. It will create the script in the correct folder near to an $ANON compatible miner and than automatically execute the miner with the correctly installed script ✔️
+This GUI will let the user enter all the parameters as simple as possible. It will create the script in the correct folder near to an ```diff + $ANON ``` compatible miner and than automatically execute the miner with the correctly installed script ✔️
 
 
 ### Windows
