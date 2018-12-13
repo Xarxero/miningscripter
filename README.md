@@ -36,7 +36,7 @@ Mac is currently not supported!
 
 
 ## Development
-
+![alt text](https://github.com/Xarxero/miningscripter/blob/master/miner_example.png)
 
 ## Contact
 
