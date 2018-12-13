@@ -27,7 +27,9 @@ This GUI will let the user enter all the parameters as simple as possible. It wi
 
 ### Windows
 Download the files and locate them in any directory. The miner is contained within the scripter.
-Run ```anon_scripter_alpha_1.3.exe```
+Run the scripter ```anon_scripter_alpha_1.3.exe```
+**WARNING** Depending on your installed Anti-Virus software, this program might be detected as a 'Trojan'! This problem occurs due the injection of the ```.dll files``` of the miner and general functionality of the scripter.
+If you still run into erros, please contact the [Technical support](https://t.me/anontechnicalsupport).
 
 ### Linux
 Linux is currently not supported!
@@ -57,7 +59,7 @@ Inofficial state of development: **Miningscripter v.1.3.1 (early-alpha)**
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Contact
 
 - Visit the ANON-Technical support for help and more information.
-	- Telgram: https://t.me/anontechnicalsupport
+	- Telegram: https://t.me/anontechnicalsupport
   	- Discord: https://discord.gg/hjeBaBx
 	
 For more information regarding ANON, please refer to the [disclosure](https://www.anonfork.io/disclosure) page.
