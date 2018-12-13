@@ -41,14 +41,13 @@ Mac is currently not supported!
 
 - Visit the ANON-Technical support for help and more information.
 	- Telgram: https://t.me/anontechnicalsupport
-  - Discord: https://discord.gg/hjeBaBx
+  	- Discord: https://discord.gg/hjeBaBx
 	
 For more information regarding ANON, please refer to the [disclosure](https://www.anonfork.io/disclosure) page.
 
 
 ## Contributing to this project
 
-Anyone and everyone is welcome to contribute. Please take a moment to
-review the [guidelines for contributing](CONTRIBUTING.md).
+Please consult 'Xarxero' if you want to contribute to this project. Improvement proposals are welcomed.
 
 Please note, issues submitted on platforms such as Reddit, Discord or Telegram will not be considered issues unless they are officially posted on the [Miningscripter issues](https://github.com/Xarxero/miningscripter/issues) page.
