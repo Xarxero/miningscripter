@@ -36,7 +36,21 @@ Mac is currently not supported!
 
 
 ## Development
+
+Inofficial state of development: **Miningscripter v.1.3.1 (early-alpha)**
+
 ![alt text](https://github.com/Xarxero/miningscripter/blob/master/miner_example.png)
+- The following functionality has been implemented so far.
+	-Detection of your installed GPU and number of devices being installed
+	-Implementation of EWBF-miner into the application itself
+	-Checking if the current graphics driver is up to date
+	-Default $ANON server and port comboboxes (additional can be added in the future)
+	-Input of the worker, username or miner
+	-Input of an regular T-$ANON walletaddress (checking if the address format is acceptable)
+	-Auto generate a 16-digit random password for the scriptfile
+	-"Script!" generates the batchfile for the miner
+	-Auto implementation and run the miner
+	-Funtion to save and open your generated config
 
 ## Contact
 
