@@ -1,4 +1,4 @@
-# Miningscripter
+# ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Miningscripter
 
 **Miningscripter v.1.2.0 (pre-alpha)**
 
@@ -6,7 +6,7 @@ ANON-Scripter for an automated script needed for the miner.
 Default server is the official ANON-Miningpool with the difficulty port of "0.1".
 
 
-## Table of Contents
+## ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)Table of Contents
 
 - [Build](#build)
 	- [Windows](#windows)
@@ -16,7 +16,6 @@ Default server is the official ANON-Miningpool with the difficulty port of "0.1"
 - [Contact](#contact)
 - [Contribute](#Contributing-to-this-project)
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 **Miningscripter is unfinished and highly experimental.** Use at your own risk.
 <!-- ### Any optional sections -->
