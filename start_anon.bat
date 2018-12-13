@@ -1,1 +1,0 @@
-miner --algo 144_5 --pers AnonyPoW --server mine.nwcoinpool.com --port 2051 --user . --pass 
