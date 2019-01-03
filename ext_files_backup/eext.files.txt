@@ -1,0 +1,2 @@
+APIErrorsConstants.au3 -> Miner
+APIShellExConstants.au3 -> Scripter
