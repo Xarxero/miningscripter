@@ -12,6 +12,7 @@ Default server is the official ANON-Miningpool with the difficulty port of "0.1"
 	- [Windows](#windows)
 	- [Linux](#linux)
 	- [Mac](#mac)
+- [Issues](#issues)
 - [Development](#development)
 - [Contact](#contact)
 - [About](#About-this-project)
@@ -39,6 +40,12 @@ Linux is currently not supported!
 
 ### Mac
 Mac is currently not supported!
+
+
+## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Issues
+**WARNING** If you run into problems while launching the application, there might be issues with the dependencies or the current version. In this case replace the miningscripter application in your main folder with the one in the ```/backup``` folder!
+
+Bugfixing is currently in an early alpha state either
 
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Development
