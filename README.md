@@ -47,7 +47,7 @@ Mac is currently not supported!
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Issues
 **WARNING** If you run into problems while launching the application, there might be issues with the dependencies or the current version. In this case replace the miningscripter application in your main folder with the one in the ```/backup``` folder!
 
-Bugfixing is currently in an early alpha state either and can be reported here [Issues!](https://github.com/Xarxero/miningscripter/issues).
+Bugfixing is currently in an early alpha state either and can be reported here [Issues!](https://github.com/Xarxero/miningscripter/issues)
 
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Miners
