@@ -52,7 +52,9 @@ Bugfixing is currently in an early alpha state either
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Miners
 **Currently supported Miners:**
+
 -GMiner CUDA Equihash Miner v1.18
+
 -EWBF Cuda Equihash Miner v0.6/v0.5
 
 
