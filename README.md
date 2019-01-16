@@ -7,7 +7,6 @@ ANON-Scripter for an automated script needed for the miner.
 Default server is the official ANON-Miningpool with the difficulty port of "0.1".
 
 
-
 ## ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Table of Contents
 
 - [Build](#build)
@@ -23,7 +22,6 @@ Default server is the official ANON-Miningpool with the difficulty port of "0.1"
 
 **Miningscripter is unfinished and highly experimental.** Use at your own risk.
 <!-- ### Any optional sections -->
-
 
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Build
@@ -46,12 +44,10 @@ Linux is currently not supported!
 Mac is currently not supported!
 
 
-
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Issues
 **WARNING** If you run into problems while launching the application, there might be issues with the dependencies or the current version. In this case replace the miningscripter application in your main folder with the one in the ```/backup``` folder!
 
 Bugfixing is currently in an early alpha state either
-
 
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Miners
@@ -60,7 +56,6 @@ Bugfixing is currently in an early alpha state either
 -[GMiner CUDA Equihash Miner v1.18](https://bitcointalk.org/index.php?topic=5034735.0)
 
 -[EWBF Cuda Equihash Miner v0.6/v0.5](https://bitcointalk.org/index.php?topic=4466962.0)
-
 
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Development
@@ -81,7 +76,6 @@ Inofficial state of development: **Miningscripter v.1.3.1 (early-alpha)**
 	- Funtion to save and open your generated config
 
 
-
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Contact
 
 - Visit the ANON-Technical support for help and more information.
@@ -89,7 +83,6 @@ Inofficial state of development: **Miningscripter v.1.3.1 (early-alpha)**
   	- Discord: https://discord.gg/hjeBaBx
 	
 For more information regarding ANON, please refer to the [disclosure](https://www.anonfork.io/disclosure) page.
-
 
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) About this project
