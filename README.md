@@ -1,6 +1,7 @@
 # ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Miningscripter
 
 **INFO** **Miningscripter v.1.4.0 (alpha) in testing-phase/pre-build**
+
 **Miningscripter v.1.3.1 (pre-alpha)**
 ANON-Scripter for an automated script needed for the miner.
 Default server is the official ANON-Miningpool with the difficulty port of "0.1".
