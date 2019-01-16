@@ -14,6 +14,7 @@ Default server is the official ANON-Miningpool with the difficulty port of "0.1"
 	- [Linux](#linux)
 	- [Mac](#mac)
 - [Issues](#issues)
+- [Miners](#miners)
 - [Development](#development)
 - [Contact](#contact)
 - [About](#About-this-project)
@@ -47,6 +48,12 @@ Mac is currently not supported!
 **WARNING** If you run into problems while launching the application, there might be issues with the dependencies or the current version. In this case replace the miningscripter application in your main folder with the one in the ```/backup``` folder!
 
 Bugfixing is currently in an early alpha state either
+
+
+## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Miners
+**Currently supported Miners:**
+-GMiner CUDA Equihash Miner v1.18
+-EWBF Cuda Equihash Miner v0.6/v0.5
 
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Development
