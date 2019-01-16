@@ -53,9 +53,9 @@ Bugfixing is currently in an early alpha state either
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Miners
 **Currently supported Miners:**
 
--GMiner CUDA Equihash Miner v1.18
+-[GMiner CUDA Equihash Miner v1.18](https://bitcointalk.org/index.php?topic=5034735.0)
 
--EWBF Cuda Equihash Miner v0.6/v0.5
+-[EWBF Cuda Equihash Miner v0.6/v0.5](https://bitcointalk.org/index.php?topic=4466962.0)
 
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Development
