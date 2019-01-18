@@ -2,7 +2,7 @@
 
 **INFO** **Miningscripter v.1.4.0 (alpha) in testing-phase/pre-build**
 
-**Miningscripter v.1.3.1 (pre-alpha)**
+**Miningscripter v.1.3.5 (pre-alpha)**
 ANON-Scripter for an automated script needed for the miner.
 Default server is the official ANON-Miningpool with the difficulty port of "0.1".
 
@@ -60,7 +60,7 @@ Bugfixing is currently in an early alpha state either and can be reported here [
 
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Development
 
-Inofficial state of development: **Miningscripter v.1.3.1 (early-alpha)**
+Inofficial state of development: **Miningscripter v.1.3.5 (early-alpha)**
 
 ![alt text](https://github.com/Xarxero/miningscripter/blob/master/scripter_1.3.5.jpg)
 - The following functionality has been implemented so far.
