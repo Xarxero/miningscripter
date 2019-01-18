@@ -62,7 +62,7 @@ Bugfixing is currently in an early alpha state either and can be reported here [
 
 Inofficial state of development: **Miningscripter v.1.3.1 (early-alpha)**
 
-![alt text](https://github.com/Xarxero/miningscripter/blob/master/miner_example.png)
+![alt text](https://github.com/Xarxero/miningscripter/blob/master/scripter_1.3.5.jpg)
 - The following functionality has been implemented so far.
 	- Detection of your installed GPU and number of devices being installed
 	- Implementation of EWBF-miner into the application itself
